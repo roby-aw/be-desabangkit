@@ -1,0 +1,6 @@
+[app]
+port = -
+[database]
+dburl = "-"
+[secrettoken]
+token = -
